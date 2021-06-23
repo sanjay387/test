@@ -1,1 +1,1 @@
-sample.text=GIT HEllo World
+msg=GIT HEllo World
